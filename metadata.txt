@@ -1,8 +1,8 @@
 [general]
 name = Freehand raster georeferencer
-qgisMinimumVersion=3.0
+qgisMinimumVersion=4.0.2
 description = Interactive georeferencing of rasters
-about = Tools to georeference a raster interactively (move, rotate, scale, export...)
+about = Tools to georeference a raster interactively (move, rotate, scale, export...). Version 0.9: Qt5->Qt6 migration for QGIS 4.0.2 by 02nowicki - Pawel Nowicki.
 version = 0.9
 author = Guilhem Vellut
 email = g@vellut.com
