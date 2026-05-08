@@ -8,6 +8,7 @@
         copyright            : (C) 2018 by Guilhem Vellut
         email                : guilhem.vellut@gmail.com
         version 0.9          : (C) 2026 by 02nowicki - Pawel Nowicki
+        email                : 02nowicki@gmail.com
         Qt5 -> Qt6 migration for QGIS 4.0.2 compatibility
  ***************************************************************************/
 
